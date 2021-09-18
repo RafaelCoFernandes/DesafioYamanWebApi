@@ -1,5 +1,5 @@
 # Desafio Yaman - Testes de API e Web
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RafaelCoFernandes/WebMotors-TestesUI/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RafaelCoFernandes/DesafioYamanWebApi/blob/master/LICENSE) 
 # 1) Sobre o projeto
 
 O projeto possui duas vertentes, testes Web e de Api. Nos testes Web usaremos as ferramentas Selenium/Cucumber/JUnit com BDD. Na execução dos testes de API, usaremos RestAssured.
