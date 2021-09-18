@@ -40,7 +40,7 @@ Através dos testes de API, devemos validar se o nome presente no Body Response 
 
 # Clonar Repositório
 ```bash
-git clone https://github.com/RafaelCoFernandes/WebMotors-TestesUI.git
+git clone https://github.com/RafaelCoFernandes/DesafioYamanWebApi.git
 ```
 Após clonar o projeto, basta executa-lo diretamente.
 
