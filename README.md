@@ -22,14 +22,19 @@ Através dos testes de API, devemos validar se o nome presente no Body Response 
 - Selenium WebDriver;
 - JUnit;
 - Java 11;
+
 ## Casos de teste
 
-
+![CasosDeTeste](https://user-images.githubusercontent.com/81786010/133911374-a3bc6d98-4cce-4d12-abc2-0588425ebb7a.png)
 
 # 2) Tecnologias utilizadas nos Testes de API
 - RestAssured;
 - JUnit;
 - Java 11;
+
+## API utilizada
+
+
 
 # 3) Dependências Utilizadas nos Testes Web e de API
 | Plugin | Mais informações |
