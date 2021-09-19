@@ -55,7 +55,9 @@ Após clonar o projeto, abra a sua IDE e importe o projeto Maven, após realizer
 
 - Obs Importantes
 
-Caso o produto utilizado como exemplo no teste Web não esteja mais presente no site, pois as mudanças são contínuas, basta pesquisar por outro produto na documentação Cucumber e alterar o elemento correspondente do site Shoestock na classe "ElementosWeb".
+Certifique-se que o seu projeto esteja em UTF-8, para verificar ou alterar, basta clicar com o botão direto do mouse na pasta raiz do projeto e ir em "properties" e realizar a alteração se necessário. Caso o projeto não esteja sendo executado em UTF-8, o mesmo pode conter erros de grámatica, que podem ser facilmente alterados, porém podem gerar erros na execução dos testes.
+
+Caso o produto utilizado como exemplo no teste Web não esteja mais presente no site, pois as mudanças são contínuas, basta pesquisar por outro produto na documentação Cucumber e alterar o elemento correspondente do site Shoestock na classe "Elementos".
 
 O projeto possui tratamento de exceções para eventuais erros de escrita ou elementos não encontrados, porém os erros gerados estão devidamente explícitos no console.
 
