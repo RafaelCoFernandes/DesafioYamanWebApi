@@ -51,7 +51,7 @@ Através dos testes de API, devemos validar se o nome presente no Body Response 
 ```bash
 git clone https://github.com/RafaelCoFernandes/DesafioYamanWebApi.git
 ```
-Após clonar o projeto, abra a sua IDE e importe o projeto Maven, após realizer estes passos, basta executa-lo através da classe "Execucao" ou do modo que preferir.
+Após clonar o projeto, abra a sua IDE e importe o projeto Maven, após realizer estes passos, basta executa-lo através da classe "Execucao" ou do modo que preferir. OBS: Certifique-se que possua o plugin Cucumber instalado.
 
 - Obs Importantes
 
