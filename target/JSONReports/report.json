@@ -1,0 +1,150 @@
+[
+  {
+    "line": 4,
+    "elements": [
+      {
+        "line": 8,
+        "name": "Acessar a API.",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 1452298400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "que eu acesse a API \"https://api.trello.com/1/actions/592f11060f95a3d3d46a987a\" para buscar pelo nome do Profissional.",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://api.trello.com/1/actions/592f11060f95a3d3d46a987a\"",
+                  "offset": 20
+                }
+              ],
+              "location": "testes.StepsApi.que_eu_acesse_a_API_para_buscar_pelo_nome_do_Profissional(java.lang.String)"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-18T23:26:19.475Z",
+        "line": 11,
+        "name": "Validar o nome do Profissional na estrutura body response - estrutura (list), campo (name).",
+        "description": "",
+        "id": "buscar-pelo-nome-de-um-profissional-na-lista.;validar-o-nome-do-profissional-na-estrutura-body-response---estrutura-(list)--campo-(name).",
+        "type": "scenario",
+        "keyword": "Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 342078000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "após exibir o nome contido no campo (name).",
+            "match": {
+              "location": "testes.StepsApi.após_exibir_o_nome_contido_no_campo_name()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 3000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "valido o nome \"Professional\".",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Professional\"",
+                  "offset": 14
+                }
+              ],
+              "location": "testes.StepsApi.valido_o_nome(java.lang.String)"
+            },
+            "keyword": "Entao "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@executa"
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "name": "Acessar a API.",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 435700500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "que eu acesse a API \"https://api.trello.com/1/actions/592f11060f95a3d3d46a987a\" para buscar pelo nome do Profissional.",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://api.trello.com/1/actions/592f11060f95a3d3d46a987a\"",
+                  "offset": 20
+                }
+              ],
+              "location": "testes.StepsApi.que_eu_acesse_a_API_para_buscar_pelo_nome_do_Profissional(java.lang.String)"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-18T23:26:21.315Z",
+        "line": 15,
+        "name": "Validar Status Code.",
+        "description": "",
+        "id": "buscar-pelo-nome-de-um-profissional-na-lista.;validar-status-code.",
+        "type": "scenario",
+        "keyword": "Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 1000800,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "valido o status code de retorno.",
+            "match": {
+              "location": "testes.StepsApi.valido_o_status_code_de_retorno()"
+            },
+            "keyword": "Entao "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@executa"
+          }
+        ]
+      }
+    ],
+    "name": "Buscar pelo nome de um profissional na lista.",
+    "description": "   Como usuario quero validar a busca do profissional via API.",
+    "id": "buscar-pelo-nome-de-um-profissional-na-lista.",
+    "keyword": "Funcionalidade",
+    "uri": "file:src/test/resources/Features/yamanApiTest.feature",
+    "tags": [
+      {
+        "name": "@executa",
+        "type": "Tag",
+        "location": {
+          "line": 3,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

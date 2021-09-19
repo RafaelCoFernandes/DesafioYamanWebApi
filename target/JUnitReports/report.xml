@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="2.369">
+    <testcase classname="Buscar pelo nome de um profissional na lista." name="Validar o nome do Profissional na estrutura body response - estrutura (list), campo (name)." time="1.835">
+        <system-out><![CDATA[Dado que eu acesse a API "https://api.trello.com/1/actions/592f11060f95a3d3d46a987a" para buscar pelo nome do Profissional..passed
+Quando após exibir o nome contido no campo (name)...........................passed
+Entao valido o nome "Professional"..........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Buscar pelo nome de um profissional na lista." name="Validar Status Code." time="0.437">
+        <system-out><![CDATA[Dado que eu acesse a API "https://api.trello.com/1/actions/592f11060f95a3d3d46a987a" para buscar pelo nome do Profissional..passed
+Entao valido o status code de retorno.......................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
