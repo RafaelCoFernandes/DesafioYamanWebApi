@@ -45,6 +45,9 @@ Através dos testes de API, devemos validar se o nome presente no Body Response 
 # 5) Como executar o projeto
 
 # Clonar Repositório
+
+- No seu terminal GIT insira o código abaixo:
+
 ```bash
 git clone https://github.com/RafaelCoFernandes/DesafioYamanWebApi.git
 ```
