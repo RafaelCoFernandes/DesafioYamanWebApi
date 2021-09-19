@@ -16,8 +16,8 @@ public class StepsApi {
 
 	}
 
-	@Quando("após exibir o nome contido no campo \\(name).")
-	public void após_exibir_o_nome_contido_no_campo_name() {
+	@Quando("apos exibir o nome contido no campo \\(name).")
+	public void apos_exibir_o_nome_contido_no_campo_name() {
 
 		System.out.println("  O nome contido no campo é " + "\"" + metodos.exibirNome() + "\"");
 
