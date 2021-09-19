@@ -53,7 +53,7 @@ git clone https://github.com/RafaelCoFernandes/DesafioYamanWebApi.git
 ```
 Após clonar o projeto, abra a sua IDE e importe o projeto Maven, após realizer estes passos, basta executa-lo através da classe "Execucao" ou do modo que preferir. OBS: Certifique-se que possua o plugin Cucumber instalado.
 
-- Obs Importantes
+## Obs Importantes
 
 Certifique-se que o seu projeto esteja em UTF-8, para verificar ou alterar, basta clicar com o botão direto do mouse na pasta raiz do projeto e ir em "properties" e realizar a alteração se necessário. Caso o projeto não esteja sendo executado em UTF-8, o mesmo pode conter erros de grámatica, que podem ser facilmente alterados, porém podem gerar erros na execução dos testes.
 
