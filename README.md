@@ -46,12 +46,12 @@ Através dos testes de API, devemos validar se o nome presente no Body Response 
 
 # Clonar Repositório
 
-- No seu terminal GIT insira o código abaixo:
+- Abra a WorkSpace da sua IDE e no seu terminal GIT insira o código abaixo:
 
 ```bash
 git clone https://github.com/RafaelCoFernandes/DesafioYamanWebApi.git
 ```
-Após clonar o projeto, basta executa-lo diretamente.
+Após clonar o projeto, abra a sua IDE e importe o projeto Maven, após realizer estes passos, basta executa-lo através da classe "Execucao" ou do modo que preferir.
 
 - Obs Importantes
 
