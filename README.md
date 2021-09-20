@@ -51,7 +51,7 @@ Abra a WorkSpace da sua IDE e no seu terminal GIT, insira o comando abaixo:
 ```bash
 git clone https://github.com/RafaelCoFernandes/DesafioYamanWebApi.git
 ```
-Após clonar o projeto, abra a sua IDE e importe o projeto Maven, após realizar estes passos, basta executa-lo através da classe "Execucao" ou do modo que preferir.
+Após clonar o projeto, abra a sua IDE e importe o projeto Maven, com isso, basta executar a aplicação através da classe "Execucao" ou do modo que preferir.
 
 ## Obs Importantes
 
