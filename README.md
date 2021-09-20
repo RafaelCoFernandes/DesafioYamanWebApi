@@ -44,22 +44,22 @@ Através dos testes de API, devemos validar se o nome presente no Body Response 
 
 # 5) Como executar o projeto
 
-# Clonar Repositório
+## Clonar Repositório
 
 - Abra a WorkSpace da sua IDE e no seu terminal GIT insira o código abaixo:
 
 ```bash
 git clone https://github.com/RafaelCoFernandes/DesafioYamanWebApi.git
 ```
-Após clonar o projeto, abra a sua IDE e importe o projeto Maven, após realizer estes passos, basta executa-lo através da classe "Execucao" ou do modo que preferir. OBS: Certifique-se que possua o plugin Cucumber instalado.
+Após clonar o projeto, abra a sua IDE e importe o projeto Maven, após realizar estes passos, basta executa-lo através da classe "Execucao" ou do modo que preferir.
 
 ## Obs Importantes
 
-Certifique-se que o seu projeto esteja em UTF-8, para verificar ou alterar, basta clicar com o botão direto do mouse na pasta raiz do projeto e ir em "properties" e realizar a alteração se necessário. Caso o projeto não esteja sendo executado em UTF-8, o mesmo pode conter erros de grámatica, que podem ser facilmente alterados, porém podem gerar erros na execução dos testes.
+É importante certificar-se que o seu projeto esteja em UTF-8, pois como existem acentuações no texto, podem acabar gerando caracteres inválidos após a importação, que podem gerar problemas no momento da execução do aplicativo, no entanto eventuais erros deste tipo podem ser resolvidos facilmente corrigindo os caracteres necessários.
 
 Caso o produto utilizado como exemplo no teste Web não esteja mais presente no site, pois as mudanças são contínuas, basta pesquisar por outro produto na documentação Cucumber e alterar o elemento correspondente do site Shoestock na classe "Elementos".
 
-O projeto possui tratamento de exceções para eventuais erros de escrita ou elementos não encontrados, porém os erros gerados estão devidamente explícitos no console.
+O projeto possui tratamento de exceções para eventuais erros de escrita ou elementos não encontrados.
 
 # Autor
 
