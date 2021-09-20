@@ -46,7 +46,7 @@ Através dos testes de API, devemos verificar se o nome presente no Body Respons
 
 ## Clonar Repositório
 
-Abra a WorkSpace da sua IDE e no seu terminal GIT insira o código abaixo:
+Abra a WorkSpace da sua IDE e no seu terminal GIT, insira o código abaixo:
 
 ```bash
 git clone https://github.com/RafaelCoFernandes/DesafioYamanWebApi.git
