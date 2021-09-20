@@ -10,7 +10,7 @@ Na condição de usuário, devemos realizar buscas pelo site, a fim de encontrar
 
 - API
 
-Através dos testes de API, devemos validar se o nome presente no Body Response e o Status Code do retorno estão de acordo com o esperado.
+Através dos testes de API, devemos verificar se o nome presente no Body Response e o Status Code do retorno estão de acordo com o esperado.
 
 # 2) Tecnologias utilizadas nos Testes Web
 - BDD;
