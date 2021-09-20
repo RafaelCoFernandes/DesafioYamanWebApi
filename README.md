@@ -55,7 +55,7 @@ Após clonar o projeto, abra a sua IDE e importe o projeto Maven, após realizar
 
 ## Obs Importantes
 
-É importante certificar-se que o seu projeto esteja em UTF-8, pois como existem acentuações no texto, podem acabar gerando caracteres inválidos após a importação, que podem gerar problemas no momento da execução do aplicativo, no entanto eventuais erros deste tipo podem ser resolvidos facilmente corrigindo os caracteres necessários.
+É importante certificar-se que o seu projeto esteja em UTF-8, pois como existem acentuações no texto, podem acabar gerando caracteres inválidos após a importação, causando problemas no momento da execução do aplicativo, no entanto eventuais erros deste tipo, são resolvidos facilmente corrigindo os caracteres necessários.
 
 Caso o produto utilizado como exemplo no teste Web não esteja mais presente no site, pois as mudanças são contínuas, basta pesquisar por outro produto na documentação Cucumber e alterar o elemento correspondente do site Shoestock na classe "Elementos".
 
