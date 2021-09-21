@@ -44,14 +44,13 @@ Através dos testes de API, devemos verificar se o nome presente no Body Respons
 
 # 5) Como executar o projeto
 
-## Clonar Repositório
-
-Abra a WorkSpace da sua IDE e no seu terminal GIT, insira o comando abaixo:
-
+- Clonar Repositório.
 ```bash
-git clone https://github.com/RafaelCoFernandes/DesafioYamanWebApi.git
+git clone https://github.com/RafaelCoFernandes/WebMotors-TestesUI.git
 ```
-Após clonar o projeto, abra a sua IDE e importe o projeto Maven, com isso, basta executar a aplicação através da classe "Execucao" ou do modo que preferir.
+- Importar projeto Maven através da IDE.
+- Mudar o padrão do texto para UTF-8 (Basta clicar com o botão direito na pasta raiz do projeto, ir em "properties" e mudar para UTF-8).
+- Rodar o projeto na classe "Execucao" ou do modo que preferir.
 
 ## Obs Importantes
 
